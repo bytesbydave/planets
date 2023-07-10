@@ -11,7 +11,7 @@
 # COLUMN koi_fpflag_ss:  Stellar Eclipse False Positive Flag
 # COLUMN koi_fpflag_co:  Centroid Offset False Positive Flag
 # COLUMN koi_fpflag_ec:  Ephemeris Match Indicates Contamination False Positive Flag
-# COLUMN koi_period:     Orbital Period [days]
+# COLUMN koi_periotd:     Orbital Period [days]
 # COLUMN koi_period_err1: Orbital Period Upper Unc. [days]
 # COLUMN koi_period_err2: Orbital Period Lower Unc. [days]
 # COLUMN koi_time0bk:    Transit Epoch [BKJD]
